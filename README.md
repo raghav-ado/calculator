@@ -1,5 +1,5 @@
 # Calculator
-A GUI calculator application built with Python.
+A GUI based calculator application built with Python.
 
 ## Screenshot
 ![demo](../assets/screenshot/1.png?raw=true)
